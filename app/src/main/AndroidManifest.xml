@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="freecall.videocall.freelivechat.global.livecall">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="freecall.videocall.freelivechat.global.livecall.s2d1s31d.f151d5vf"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Gamevc2"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.adx12s51cd5.saf1ds22"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.szxd4s545.f641df5641"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.szxd4s545.f4ds6f4ds6f54"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Gamevc2" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.gf45d4f5"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.df125f1d5vf"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.fc2ds63526.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.dsfvg1d45v1"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.fedf3221"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.dfd1514d5f"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.s4d185d4fv5"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dgfdsfv5436"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.cd654fcZ"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.fsdf5f454"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.dsd14s514.dsa5d145"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/ProgressBar" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.szxd4s545.vdsvdv14541"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Gamevc2" />
+        <activity
+            android:name="freecall.videocall.freelivechat.global.livecall.s2d1s31d.f1sd5f145"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashOnly">
+                        <intent-filter>
+                            <action android:name="android.intent.action.MAIN" />
+                            <category android:name="android.intent.category.LAUNCHER" />
+                        </intent-filter>
+        </activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>
